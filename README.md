@@ -1,4 +1,4 @@
-# Company-WikkBot
+# Company-WikiBot
 Internal Company Wiki Chatbot built using RAG, that can read internal company documentation and answer queries based on that documentation.
 The goal of this project is to build a real-world RAG chatbot entirely inside Google Colab using Python.
 
@@ -55,7 +55,7 @@ Gemini generates answers using retrieved context
 
 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/YOUR_USERNAME/Company-WikiBot.git
+git clone https://github.com/AnnaBastin/Company-WikiBot.git
 
 2. Open the Notebook in Google Colab
 Open:
